@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\DELL\source\repos\project\project\bin\Debug\project.exe
+C:\Users\DELL\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.Form1.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.exe
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.admin.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.Gestion.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.salle.resources
+C:\Users\DELL\source\repos\project\project\obj\Debug\project.authentification_joueur.resources
